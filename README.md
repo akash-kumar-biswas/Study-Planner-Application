@@ -1,2 +1,2 @@
 # Study-Planner-Application
-This is a desktop application which is developed using JavaFX
+This is a Desktop application developed using JavaFX.
